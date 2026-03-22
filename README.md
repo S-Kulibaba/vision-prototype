@@ -1,4 +1,4 @@
-# AniVision Prototype
+# Vision Prototype
 
 A local tool for detecting and analyzing animation in video files, built as a proof of concept.
 
@@ -58,8 +58,8 @@ All models run **locally** with no API keys. No data leaves your machine.
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/anivision-prototype.git
-cd anivision-prototype
+git clone https://github.com/YOUR_USERNAME/vision-prototype.git
+cd vision-prototype
 ```
 
 **2. Create a virtual environment**
