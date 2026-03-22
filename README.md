@@ -87,11 +87,7 @@ pip install torch torchvision
 pip install -r requirements.txt
 ```
 
-> If you don't have a CUDA-capable GPU, replace the torch lines in `requirements.txt` with the CPU version:
->
-> ```
-> pip install torch torchvision
-> ```
+> If you don't have a CUDA-capable GPU, follow CPU-only installation.
 
 **4. Install Mistral via Ollama**
 
