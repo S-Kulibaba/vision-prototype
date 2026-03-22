@@ -77,6 +77,13 @@ source venv/bin/activate
 **3. Install Python dependencies**
 
 ```bash
+# GPU (CUDA 12.1) — recommended
+pip install torch==2.5.1+cu121 torchvision==0.20.1+cu121 --index-url https://download.pytorch.org/whl/cu121
+
+# CPU only
+pip install torch torchvision
+
+# Then install the rest
 pip install -r requirements.txt
 ```
 
